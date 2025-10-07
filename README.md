@@ -1,1 +1,3 @@
-# isi2025-wsc-prez
+# ISI WSC 2025 Presentation
+
+My slides regarding RAG evaluation
